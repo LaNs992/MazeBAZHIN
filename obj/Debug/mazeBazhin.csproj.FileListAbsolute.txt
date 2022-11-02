@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\bin\Debug\mazeBazhin.exe.config
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\bin\Debug\mazeBazhin.exe
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\bin\Debug\mazeBazhin.pdb
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\obj\Debug\mazeBazhin.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\obj\Debug\mazeBazhin.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\obj\Debug\mazeBazhin.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\obj\Debug\mazeBazhin.exe
-C:\Users\User\source\repos\mazeBazhin\mazeBazhin\obj\Debug\mazeBazhin.pdb
